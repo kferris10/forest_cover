@@ -120,7 +120,7 @@ library(rhandsontable)
 dat %>% 
   group_by(Cover_Type) %>% 
   summarise(n()) %>% 
-  rhandsontable()  %>%
+  rhandsontable(width = 200, height = 200)  %>%
   hot_cols(columnSorting = TRUE)
 ```
 
