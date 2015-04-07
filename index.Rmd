@@ -7,6 +7,8 @@ output:
     theme: united
 ---
 
+<a href="https://github.com/kferris10/forest_cover"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a>
+
 We are working on the [forest cover kaggle competition](http://www.kaggle.com/c/forest-cover-type-predictionhttp://www.kaggle.com/c/forest-cover-type-prediction).  Our [GitHub repo](https://github.com/mdlerch/forest_cover) contains the testing data which we have split up into a testing set and a training set.
 
 In this challenge, you are given some information about a location and asked to predict which of 7 species of tree is the predominant species.  Here are some exploratory plots.  I'm using this as a chance to check out some [htmlwidgets](http://htmlwidgets.org/) so be prepared for a lot of different styles of plots.
